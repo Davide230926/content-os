@@ -219,4 +219,4 @@ Every Friday review (see [[scheduling]]):
 3. What did you almost write but talk yourself out of? Probably the best one
 4. Drop 1-2 dead topics that didn't generate anything in 60 days
 
-Topic format: one line, specific, no fluff. If it needs a paragraph to explain, it's not a topic, it's a post draft.
+Topic format: one line, specific, no fluff. If it needs a paragraph to explain, it's not a topic, it's a post draft. !!!!!!!
