@@ -56,8 +56,8 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 ### Contrarian takes
 
 - The AI tool stack matters less than the one process you point it at
-- Most "AI transformation" advice is written for companies 100x your size
-- You don't need an AI consultant. You need 4 hours and one clear bottleneck
+- Most "AI transformation" advice is written for companies 100x your size ✅ used [11.05.2026]
+- You don't need an AI consultant. You need 4 hours and one clear bottleneck ✅ used [10.05.2026]
 - The agencies selling AI right now are the same ones that sold you SEO in 2018
 
 ---
@@ -191,7 +191,7 @@ How SMBs and founders actually win attention. Positioning, content, audience, sa
 ### Contrarian takes
 
 - Personal brand isn't a strategy, it's a multiplier — you still need a strategy
-- Most "viral" content doesn't move revenue. Stop optimizing for it
+- Most "viral" content doesn't move revenue. Stop optimizing for it ✅ used [10.05.2026]
 - The agency that sold you "thought leadership" is selling 200 other founders the same playbook
 - Cold outreach isn't dead. Lazy cold outreach is dead
 - SEO for SMBs is mostly a waste in 2026 — here's what replaced it
@@ -203,7 +203,7 @@ How SMBs and founders actually win attention. Positioning, content, audience, sa
 These hit two domains at once and are usually the strongest posts. Use sparingly — they take longer to write but punch above their weight.
 
 - AI + Marketing: why AI-generated content is killing the SMBs that adopt it fastest
-- AI + Ops: the operational mess AI exposes that nobody wants to fix first
+- AI + Ops: the operational mess AI exposes that nobody wants to fix first ✅ used [11.05.2026]
 - Entrepreneurship + Marketing: distribution as the founder skill nobody teaches
 - Business + AI: the readiness gap between owners who'll win with AI and those who won't
 - Marketing + Entrepreneurship: why the founder voice outperforms the brand voice
@@ -219,4 +219,4 @@ Every Friday review (see [[scheduling]]):
 3. What did you almost write but talk yourself out of? Probably the best one
 4. Drop 1-2 dead topics that didn't generate anything in 60 days
 
-Topic format: one line, specific, no fluff. If it needs a paragraph to explain, it's not a topic, it's a post draft. !!!!!!!
+Topic format: one line, specific, no fluff. If it needs a paragraph to explain, it's not a topic, it's a post draft. 
