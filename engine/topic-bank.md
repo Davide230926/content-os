@@ -47,7 +47,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 
 ### ROI & opportunities
 
-- The 3 AI use cases that pay back in week one for service businesses
+- The 3 AI use cases that pay back in week one for service businesses ✅ used [12.05.2026]
 - Where SMBs leave the most margin on the table with AI (it's not what you think)
 - Customer service automation: when it works, when it destroys retention
 - Quoting, proposals, follow-ups — the boring AI wins nobody posts about
@@ -69,7 +69,7 @@ Running a real SMB. Margins, hiring, pricing, ops, cashflow, founder mistakes. P
 ### Hiring & team
 
 - Why your best employee leaving usually means your processes were them
-- The role you should hire for next isn't the one you're posting for
+- The role you should hire for next isn't the one you're posting for ✅ used [12.05.2026]
 - Hiring before documenting is paying someone to be confused
 - The interview question that filters for ownership in 30 seconds
 - When a "rockstar" hire kills team velocity — the pattern nobody admits
@@ -113,7 +113,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 
 ### Building in public (Strados-specific)
 
-- Why I built Strados as an assessment first, not a product
+- Why I built Strados as an assessment first, not a product ✅ used [12.05.2026]
 - The first 10 conversations that shaped Strados more than any market research
 - What I shipped in week one vs what I thought I'd ship
 - The feature I built that nobody used — and what it taught me
