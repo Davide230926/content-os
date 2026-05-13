@@ -55,7 +55,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 
 ### Contrarian takes
 
-- The AI tool stack matters less than the one process you point it at
+- The AI tool stack matters less than the one process you point it at ✅ used [13.05.2026]
 - Most "AI transformation" advice is written for companies 100x your size ✅ used [11.05.2026]
 - You don't need an AI consultant. You need 4 hours and one clear bottleneck ✅ used [10.05.2026]
 - The agencies selling AI right now are the same ones that sold you SEO in 2018
@@ -139,7 +139,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 
 - The week I almost gave up — what actually pulled me out
 - Imposter syndrome is just calibration without data yet
-- Working on the wrong thing feels exactly like working hard
+- Working on the wrong thing feels exactly like working hard ✅ used [13.05.2026]
 - Why your worst founder week is usually right before the unlock
 - Comparing your day-1 to someone's day-1000 is the silent killer
 
@@ -205,7 +205,7 @@ These hit two domains at once and are usually the strongest posts. Use sparingly
 - AI + Marketing: why AI-generated content is killing the SMBs that adopt it fastest
 - AI + Ops: the operational mess AI exposes that nobody wants to fix first ✅ used [11.05.2026]
 - Entrepreneurship + Marketing: distribution as the founder skill nobody teaches
-- Business + AI: the readiness gap between owners who'll win with AI and those who won't
+- Business + AI: the readiness gap between owners who'll win with AI and those who won't ✅ used [13.05.2026]
 - Marketing + Entrepreneurship: why the founder voice outperforms the brand voice
 
 ---
