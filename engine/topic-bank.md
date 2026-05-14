@@ -34,7 +34,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 - Why ChatGPT in the hands of an untrained team makes things worse, not better
 - The hidden cost of AI tools nobody talks about: the time to learn them
 - "We tried AI and it didn't work" usually means one person tried it once, alone
-- Buying AI tools before defining the bottleneck is shopping, not strategy
+- Buying AI tools before defining the bottleneck is shopping, not strategy ✅ used [14.05.2026]
 
 ### Real adoption patterns
 
@@ -130,7 +130,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 ### Focus & shipping
 
 - The feature you're afraid to cut is the one your users don't use
-- Shipping ugly beats polishing invisible every time
+- Shipping ugly beats polishing invisible every time ✅ used [14.05.2026]
 - The roadmap is fiction. The next 2 weeks are the only thing real
 - Why most founders confuse motion with progress
 - Saying no to good ideas is the founder skill nobody teaches
@@ -202,7 +202,7 @@ How SMBs and founders actually win attention. Positioning, content, audience, sa
 
 These hit two domains at once and are usually the strongest posts. Use sparingly — they take longer to write but punch above their weight.
 
-- AI + Marketing: why AI-generated content is killing the SMBs that adopt it fastest
+- AI + Marketing: why AI-generated content is killing the SMBs that adopt it fastest ✅ used [14.05.2026]
 - AI + Ops: the operational mess AI exposes that nobody wants to fix first ✅ used [11.05.2026]
 - Entrepreneurship + Marketing: distribution as the founder skill nobody teaches
 - Business + AI: the readiness gap between owners who'll win with AI and those who won't ✅ used [13.05.2026]
