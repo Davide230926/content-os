@@ -5,12 +5,9 @@ Core voice defined in [[brand-voice]]. This file defines
 how that voice ADAPTS per platform.
 
 ## X / Twitter
-- Most casual version of the voice
 - Short sentences. punchy. no filler
-- "lol", "imo", "btw" used freely
-- Sarcasm and irony welcome
 - Example: "You don't need 10 tools. You need 10 markdown files.
-  Ytudy this."
+  Simplicity wins."
 
 ## LinkedIn
 - Professional but still human. not corporate
