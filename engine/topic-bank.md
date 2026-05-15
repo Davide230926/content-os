@@ -30,7 +30,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 ### Mistakes & misconceptions
 
 - The "we need an AI strategy" trap — why owners get sold €50K projects they don't need
-- Most SMBs don't have an AI problem, they have a process problem AI can't fix
+- Most SMBs don't have an AI problem, they have a process problem AI can't fix ✅ used [15.05.2026]
 - Why ChatGPT in the hands of an untrained team makes things worse, not better
 - The hidden cost of AI tools nobody talks about: the time to learn them
 - "We tried AI and it didn't work" usually means one person tried it once, alone
@@ -42,7 +42,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 - Pilot with the owner first, not the team — the rollout pattern that works
 - One metric, one process, one person — the smallest unit of AI adoption
 - Why the curious junior employee is your best AI champion, not the senior one
-- The 5-min readiness check that predicts whether AI rollout will stick
+- The 5-min readiness check that predicts whether AI rollout will stick ✅ used [15.05.2026]
 - What "AI readiness" actually means for a 12-person operation
 
 ### ROI & opportunities
@@ -114,7 +114,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 ### Building in public (Strados-specific)
 
 - Why I built Strados as an assessment first, not a product ✅ used [12.05.2026]
-- The first 10 conversations that shaped Strados more than any market research
+- The first 10 conversations that shaped Strados more than any market research ✅ used [15.05.2026]
 - What I shipped in week one vs what I thought I'd ship
 - The feature I built that nobody used — and what it taught me
 - Why "founder doing customer support" is a feature, not a stage
