@@ -50,7 +50,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 - The 3 AI use cases that pay back in week one for service businesses ✅ used [12.05.2026]
 - Where SMBs leave the most margin on the table with AI (it's not what you think)
 - Customer service automation: when it works, when it destroys retention
-- Quoting, proposals, follow-ups — the boring AI wins nobody posts about
+- Quoting, proposals, follow-ups — the boring AI wins nobody posts about ✅ used [16.05.2026]
 - Why "AI for marketing" is the worst place for most SMBs to start
 
 ### Contrarian takes
@@ -115,7 +115,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 
 - Why I built Strados as an assessment first, not a product ✅ used [12.05.2026]
 - The first 10 conversations that shaped Strados more than any market research ✅ used [15.05.2026]
-- What I shipped in week one vs what I thought I'd ship
+- What I shipped in week one vs what I thought I'd ship ✅ used [16.05.2026]
 - The feature I built that nobody used — and what it taught me
 - Why "founder doing customer support" is a feature, not a stage
 
@@ -192,7 +192,7 @@ How SMBs and founders actually win attention. Positioning, content, audience, sa
 
 - Personal brand isn't a strategy, it's a multiplier — you still need a strategy
 - Most "viral" content doesn't move revenue. Stop optimizing for it ✅ used [10.05.2026]
-- The agency that sold you "thought leadership" is selling 200 other founders the same playbook
+- The agency that sold you "thought leadership" is selling 200 other founders the same playbook ✅ used [16.05.2026]
 - Cold outreach isn't dead. Lazy cold outreach is dead
 - SEO for SMBs is mostly a waste in 2026 — here's what replaced it
 
