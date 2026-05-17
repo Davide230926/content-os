@@ -43,7 +43,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 - One metric, one process, one person — the smallest unit of AI adoption
 - Why the curious junior employee is your best AI champion, not the senior one
 - The 5-min readiness check that predicts whether AI rollout will stick ✅ used [15.05.2026]
-- What "AI readiness" actually means for a 12-person operation
+- What "AI readiness" actually means for a 12-person operation ✅ used [17.05.2026]
 
 ### ROI & opportunities
 
@@ -102,7 +102,7 @@ Running a real SMB. Margins, hiring, pricing, ops, cashflow, founder mistakes. P
 
 - The mistake I made hiring before I had repeatable revenue
 - Why "we just need more leads" is almost always wrong
-- Confusing busy with profitable kills more SMBs than competition does
+- Confusing busy with profitable kills more SMBs than competition does ✅ used [17.05.2026]
 - The €10K decision I made because I didn't want to have a hard conversation
 
 ---
@@ -117,7 +117,7 @@ Building Strados in public. Early-stage decisions, validation, shipping, focus. 
 - The first 10 conversations that shaped Strados more than any market research ✅ used [15.05.2026]
 - What I shipped in week one vs what I thought I'd ship ✅ used [16.05.2026]
 - The feature I built that nobody used — and what it taught me
-- Why "founder doing customer support" is a feature, not a stage
+- Why "founder doing customer support" is a feature, not a stage ✅ used [17.05.2026]
 
 ### Validation
 
