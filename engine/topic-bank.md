@@ -51,7 +51,7 @@ Specific to Strados.ai POV — the gap between AI hype and what SMBs can actuall
 - Where SMBs leave the most margin on the table with AI (it's not what you think)
 - Customer service automation: when it works, when it destroys retention
 - Quoting, proposals, follow-ups — the boring AI wins nobody posts about ✅ used [16.05.2026]
-- Why "AI for marketing" is the worst place for most SMBs to start
+- Why "AI for marketing" is the worst place for most SMBs to start ✅ used [18.05.2026]
 
 ### Contrarian takes
 
@@ -71,7 +71,7 @@ Running a real SMB. Margins, hiring, pricing, ops, cashflow, founder mistakes. P
 - Why your best employee leaving usually means your processes were them
 - The role you should hire for next isn't the one you're posting for ✅ used [12.05.2026]
 - Hiring before documenting is paying someone to be confused
-- The interview question that filters for ownership in 30 seconds
+- The interview question that filters for ownership in 30 seconds ✅ used [18.05.2026]
 - When a "rockstar" hire kills team velocity — the pattern nobody admits
 
 ### Pricing & margins
@@ -185,7 +185,7 @@ How SMBs and founders actually win attention. Positioning, content, audience, sa
 - Your sales calls are losing you deals at "tell me about yourself"
 - The follow-up email that closes more than any cold opener
 - Why "let me think about it" is a discovery problem, not a closing problem
-- Free assessments work because they replace pitch with proof
+- Free assessments work because they replace pitch with proof ✅ used [18.05.2026]
 - The pricing page that converts isn't the one with the most features
 
 ### Contrarian takes
